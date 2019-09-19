@@ -31,7 +31,7 @@
             <artifactId>blade-kit</artifactId>
             <version>1.4.1-alpha</version>
         </dependency>
-        
+
         <!-- 数据库操作 -->
         <dependency>
             <groupId>mysql</groupId>
